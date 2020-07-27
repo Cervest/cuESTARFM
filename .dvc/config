@@ -1,0 +1,6 @@
+[cache]
+    type = "hardlink,symlink"
+[core]
+    remote = upstream
+['remote "upstream"']
+    url = s3://cervest-data-version-control/cuESTARFM
