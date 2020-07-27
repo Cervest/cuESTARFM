@@ -1,0 +1,4 @@
+The spatial and temporal adaptive reflectance fusion model (STARFM) allows prediction of Landsat images using MODIS everyday observations.
+Here is an area within French test region. STARFM predicted Landsat from April to September.
+Left panel: images of the original MODIS and Landsat and predicted Landsat
+Right panel: Dynamics of the mean NDVI over the whole area.
